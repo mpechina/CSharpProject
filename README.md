@@ -1,0 +1,1 @@
+Created a website using C# ASP.NET using a "maintenace driven" approch. It contains 3 different concerns: Presentation, Domain, and persistance layers. It also uses data transfer objects (DTO's) to communicate between layers. This project uses entity framework to work with relational data. This project also utilzes the Knockout JS framework to separate the various layers. 
